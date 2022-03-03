@@ -1,0 +1,15 @@
+.features {
+    margin-top: 10px;
+    min-height: 400px;
+    border: 1px solid #8C8C8C;
+    border-radius: 7px;
+    color: #4A4A4A;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .bottom-right{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
